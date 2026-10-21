@@ -1,0 +1,7 @@
+# CodePath course material (copyrighted, contains personal info) — local only
+codepath/
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
