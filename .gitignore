@@ -1,7 +1,11 @@
-# CodePath course material (copyrighted, contains personal info) — local only
-codepath/
+# CodePath course material (copyrighted) — local only, except the notice
+codepath/*
+!codepath/LICENSE-NOTICE.md
 
 __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Claude Code worktrees
+.claude/
